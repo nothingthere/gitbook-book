@@ -12,7 +12,7 @@
 
 ## 帮助和支持
 
-可在<https://www.gitbook.com/contact和<https://github.com/GitbookIO/gitbook>寻求帮助。
+可在<https://www.gitbook.com/contact>和<https://github.com/GitbookIO/gitbook>寻求帮助。
 
 ## 常见问题
 
