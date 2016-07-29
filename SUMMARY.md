@@ -9,3 +9,7 @@
 -   [2页面和大纲](docs/图书内容/2页面和大纲.md)
 -   [3配置](docs/图书内容/3配置.md)
 -   [4注释](docs/图书内容/4注释.md)
+
+## FAQ
+
+-   [1与github同步](docs/FAQ/1与github同步.md)
