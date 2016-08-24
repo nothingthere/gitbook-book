@@ -16,4 +16,4 @@
 
 ## 常见问题
 
-<https://toolchain.gitbook.com/faq.html>？？？列出了一些常见问题及其解决方法。
+[FAQ页面](docs/FAQ/1与github同步.md)列出了一些常见问题及其解决方法。
